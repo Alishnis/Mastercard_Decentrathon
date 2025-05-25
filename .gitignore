@@ -1,0 +1,7 @@
+# Python virtual environment
+venv/
+
+# Large data files
+*.parquet
+clustered_transactions.parquet
+clustered_transactions_sample.parquet
